@@ -24,7 +24,7 @@ public class GravanteClass {
 	 */
 	public float GravanteMet(int b, int e) {
 		int val1=1;
-		for(int i=1; i<=b;i++) {
+		for(int i=1; i<e;i++) {    //errore deve essere i<e e non i<=b
 			val1= val1*b;
 			
 		}
