@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"GravanteClass","l":"GravanteClass()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"GravanteClass","l":"GravanteMet(int, int)","url":"GravanteMet(int,int)"},{"p":"<Unnamed>","c":"GravanteClass","l":"main(String[])","url":"main(java.lang.String[])"}]
